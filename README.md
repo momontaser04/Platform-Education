@@ -13,7 +13,7 @@ This project is a RESTful API designed to support an educational platform, provi
 - **Error Handling with Result Pattern**: Consistent and structured error handling across the API.
 - **Distributed Caching** (Questions Service): Enhances performance and scalability for frequently accessed questions.
 - **Hangfire & Recurring Jobs**: Background job processing for tasks like email notifications or cleanup tasks.
-- **Role-Based Authorization**: Secure access control using roles and permissions.
+- **Permission-Based Authentication**: Secure access control using roles and permissions..
 - **Pagination, Health Checks, and Rate Limiting**: Efficient data loading, API health monitoring, and request throttling to ensure stability and performance.
 
 ---
