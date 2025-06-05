@@ -1,5 +1,7 @@
 # 📚 API for Platform Education
 
+🔗 **[👉 View Swagger Documentation](https://educationplatform.runasp.net/swagger/index.html)**
+
 This project is a RESTful API designed to support an educational platform, providing robust features for managing courses, sections, videos, and exams. The API is built with scalability, maintainability, and security in mind.
 
 ---
@@ -13,10 +15,11 @@ This project is a RESTful API designed to support an educational platform, provi
 - **Error Handling with Result Pattern**: Consistent and structured error handling across the API.
 - **Distributed Caching** (Questions Service): Enhances performance and scalability for frequently accessed questions.
 - **Hangfire & Recurring Jobs**: Background job processing for tasks like email notifications or cleanup tasks.
-- **Permission-Based Authentication**: Secure access control using roles and permissions..
+- **Permission-Based Authentication**: Secure access control using roles and permissions.
 - **Pagination, Health Checks, and Rate Limiting**: Efficient data loading, API health monitoring, and request throttling to ensure stability and performance.
 
 ---
+
 
 ## 🛠️ Technologies Used
 
