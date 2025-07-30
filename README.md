@@ -2,7 +2,14 @@
 
 🔗 **[👉 View Swagger Documentation](https://educationplatform.runasp.net/swagger/index.html)**
 
+
 This project is a RESTful API designed to support an educational platform, providing robust features for managing courses, sections, videos, and exams. The API is built with scalability, maintainability, and security in mind.
+## 🔐 Admin Credentials
+
+Use the following credentials to log in as an admin in the system (for testing purposes):
+
+- **Email:** `test7@example.com`  
+- **Password:** `Te12345@`
 
 ---
 
